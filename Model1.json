@@ -1,0 +1,43 @@
+{
+    "a": {
+        "boy": 1
+    },
+    "abhishek": {
+        "and": 1
+    },
+    "am": {
+        "a": 1
+    },
+    "and": {
+        "i": 5
+    },
+    "i": {
+        "am": 1,
+        "like": 4
+    },
+    "is": {
+        "abhishek": 1,
+        "sharnam": 2,
+        "unnati": 2
+    },
+    "like": {
+        "to": 4
+    },
+    "my": {
+        "name": 5
+    },
+    "name": {
+        "is": 5
+    },
+    "sharnam": {
+        "and": 2
+    },
+    "to": {
+        "eat": 1,
+        "play": 1,
+        "sleep": 2
+    },
+    "unnati": {
+        "and": 2
+    }
+}

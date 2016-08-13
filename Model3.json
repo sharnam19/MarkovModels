@@ -1,0 +1,73 @@
+{
+    ". my name": {
+        "is": 1
+    },
+    "abhishek and i": {
+        "like": 1
+    },
+    "abhishek my name": {
+        "is": 2
+    },
+    "and i am": {
+        "a": 1
+    },
+    "and i like": {
+        "to": 3
+    },
+    "i am a": {
+        "boy": 1
+    },
+    "i like to": {
+        "eat": 1,
+        "play": 1,
+        "sleep": 1
+    },
+    "is abhishek and": {
+        "i": 1
+    },
+    "is abhishek my": {
+        "name": 2
+    },
+    "is sharnam .": {
+        "my": 1
+    },
+    "is sharnam and": {
+        "i": 2
+    },
+    "is sharnam my": {
+        "name": 1
+    },
+    "is unnati and": {
+        "i": 1
+    },
+    "my name is": {
+        "abhishek": 4,
+        "sharnam": 6,
+        "unnati": 1
+    },
+    "name is abhishek": {
+        "and": 1,
+        "my": 2
+    },
+    "name is sharnam": {
+        ".": 2,
+        "and": 2,
+        "my": 1
+    },
+    "name is unnati": {
+        "and": 1
+    },
+    "sharnam . my": {
+        "name": 1
+    },
+    "sharnam and i": {
+        "am": 1,
+        "like": 1
+    },
+    "sharnam my name": {
+        "is": 1
+    },
+    "unnati and i": {
+        "like": 1
+    }
+}
